@@ -1,0 +1,75 @@
+36. Find second smallest number in a given array.
+
+37.Write your own implementation of parseInt() method.
+
+38.Write a program for Maximum profit by buying and selling a share at most
+k times
+Apples and oranges puzzle
+
+39.find repeating numbers in an array
+
+40.why array starts with 0
+
+41.find two consecutive no in array which have maximum sum
+
+42.check whether given number is strong number or not
+
+43.Fibonacci series using recursion
+
+44.meeting room problem.
+
+45.implement inbuilt python functions
+
+46. backtracking and simple logic (clock angle).
+
+47.Minimum Profit/Buy and sell stocks
+
+48.Maximum Frequency Character and its frequency
+
+49.convert binary to decimal using recursion
+
+50.convert string into number without using inbuilt function
+
+51.check whether string is cyclic or not
+
+52.String is anagram or not with space complexity constant
+
+53.Find equilibrium point(index) in given array. Equilibrium point is
+the element from where sum of all elements left to it is equal to sum
+of all elements right to it.
+
+54.implement inbuilt python functions.
+
+55.Find the max distance between indexes of duplicate values from an array.
+
+56. Write a function that prints out a breakdown of an integer intInput: 43018,
+Output: Print 40000 + 3000 + 10 + 8
+
+57. Find rank of students besed on marks there was given marks of 10 students
+
+58. Count of elements which are power of 2 in array.
+
+59. given list of students marks in decreasing order(same marks has same rank
+i.e 36 34 34 20 19 1 2 2 3 4).Given new student mark.
+find rank of new student in given list.
+
+60.there are two clocks one is working properly(c1) and other one is dis-function(c2).
+we given c2 is x mins faster than c1 per hour. And after k mins in c1.
+If we stop c2 clock what will be total angle between hour and min hand in c2.
+ex x=30 & k=90
+output :- 744
+
+64. Given an array including alphabates & dash.move all Dash at the end
+without changing order of alphabets. O(N)
+
+65. Minimum coins required of 2 & 5 to get N sum value O(1)
+
+66. Given an integer array, find a pair with the given sum in it.
+
+67. Dutch national flag
+
+68. count pairs in array map implementation
+
+69. Merge two sorted array
+
+70. Check whether the vowels in a string are in alphabetical order or not
